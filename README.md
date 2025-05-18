@@ -1,3 +1,6 @@
+Chale ja bc
+
+
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center"> A BCA student skilled in tech and design who loves to explore various fields including web development, UI/UX, and content creation</h3>
 
